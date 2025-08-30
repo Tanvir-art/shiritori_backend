@@ -8,11 +8,8 @@ It provides APIs to validate words, track word history, and reset the game.
 ## **Table of Contents**
 
 - [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [API Endpoints](#api-endpoints)  
-- [CORS Configuration](#cors-configuration)  
-- [License](#license)  
+- [Installation](#installation)   
+- [API Endpoints](#api-endpoints)   
 
 ---
 
